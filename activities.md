@@ -1,3 +1,4 @@
+adde legs
 Add arms
 
 # Git Basics Activities
